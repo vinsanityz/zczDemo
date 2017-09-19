@@ -47,6 +47,21 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
+    nsl
+    qweqwkfdklvmdflkvdl;vmdfvsfdvfdvfdvdfsvsdfvdfv
+    kCFDateFormatterDoesRelativeDateFormattingKeyv
+    fdv
+    df
+    v
+    sdfv
+    
+    dfv
+    sdf
+    vsd
+    fv
+    dsfv
+    s
+    kCFDateFormatterVeryShortMonthSymbols
     // Dispose of any resources that can be recreated.
 }
 
